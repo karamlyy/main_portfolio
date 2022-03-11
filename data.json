@@ -1,0 +1,34 @@
+[
+    {
+        "img":"img/delivery.png",
+        "link":"https://karamlyy.github.io/karamlyy_delivery/"
+    },
+    {
+        "img":"img/plant.png",
+        "link":"https://karamlyy.github.io/plant_store/"
+    },
+    {
+        "img":"img/restaurant2.png",
+        "link":"https://karamlyy.github.io/karamlyy_second_restaurant/"
+    },
+    {
+        "img":"img/link.png",
+        "link":"https://karamlyy.github.io/link/"
+    },
+    {
+        "img":"img/music.png",
+        "link":"https://karamlyy.github.io/karamlyy_music_player/"
+    },
+    {
+        "img":"img/car.png",
+        "link":"https://karamlyy.github.io/karamlyy_auto/"
+    },
+    {
+        "img":"img/travel.png",
+        "link":"https://karamlyy.github.io/travel/"
+    },
+    {
+        "img":"img/store1.png",
+        "link":"https://karamlyy.github.io/store2/"
+    }
+]
